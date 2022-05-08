@@ -14,6 +14,7 @@ The percent change from opening price at the beginning of a given year to the cl
 
 The total stock volume of the stock.
 
-
-
 I have conditional formatting that will highlight positive change in green and negative change in red.
+
+My 2016 stock data showed like this:
+![png!](2016_stock_data.png)
